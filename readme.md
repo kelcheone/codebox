@@ -1,5 +1,7 @@
 # CodeBox
 
+> **This is a Fork of the original codebase.  It now supports ReadOnly mode from editor js.**
+
 [![](https://img.shields.io/npm/v/@bomdi/codebox)](https://www.npmjs.com/package/@bomdi/codebox)
 [![](https://img.shields.io/npm/dw/@bomdi/codebox)](https://www.npmjs.com/package/@bomdi/codebox)
 [![](https://flat.badgen.net/npm/license/@bomdi/codebox)](https://www.npmjs.com/package/@bomdi/codebox)
@@ -12,15 +14,15 @@ Code syntax highlighting tool for [Editor.js](https://editorjs.io/)
 Install the package via NPM
 
 ```shell
-npm i @bomdi/codebox
+npm i @kelche/codebox
 ```
 
 Add to your module/application
 
 ```javascript
-import CodeBox from '@bomdi/codebox';
+import CodeBox from '@kelche/codebox';
 OR
-const CodeBox = require('@bomdi/codebox');
+const CodeBox = require('@kelche/codebox');
 ```
 
 

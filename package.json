@@ -1,8 +1,8 @@
 {
-  "name": "@bomdi/codebox",
+  "name": "@kelche/codebox",
   "version": "2.0.0",
   "license": "ISC",
-  "description": "Code syntax highlighting tool for Editor.js",
+  "description": "A fork from dev-juju/Codebox Code syntax highlighting tool for Editor.js",
   "keywords": [
     "Editor.js",
     "Code",
@@ -14,7 +14,7 @@
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dev-juju/codebox.git"
+    "url": "git+https://github.com/kelche/codebox.git"
   },
   "scripts": {
     "build": "webpack --progress",
